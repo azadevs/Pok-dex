@@ -1,6 +1,6 @@
 # Pokedex App
 
-A comprehensive Pokédex app built with Jetpack Compose, leveraging the PokeAPI to provide detailed information on Pokémon, their types, stats, and more.
+A Pokédex app built with Jetpack Compose, leveraging the PokeAPI to provide detailed information on Pokémon, their types, stats, and more.
 
 ## Screenshots
 <img src="https://imgur.com/X1UKmW8.png" width="250"> <img src="https://imgur.com/zH1luPA.png" width="250">
