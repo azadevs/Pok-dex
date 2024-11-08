@@ -22,7 +22,8 @@ A comprehensive Pokédex app built with Jetpack Compose, leveraging the PokeAPI 
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/azadevs/pokedex.git](https://github.com/azadevs/pokedex.git)
+   git clone https://github.com/azadevs/pokedex.git
+   ```
 2. Open the project in Android Studio
 3. Connect a physical device or start an emulator
 4. Build and run the app
