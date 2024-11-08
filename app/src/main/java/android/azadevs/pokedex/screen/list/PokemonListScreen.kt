@@ -122,7 +122,7 @@ fun SearchBar(
             },
             maxLines = 1,
             singleLine = true,
-            textStyle = TextStyle(color = Color.Black),
+            textStyle = TextStyle(color = MaterialTheme.colorScheme.onSurface),
             modifier = Modifier
                 .fillMaxWidth()
                 .shadow(elevation = 5.dp, shape = CircleShape)
