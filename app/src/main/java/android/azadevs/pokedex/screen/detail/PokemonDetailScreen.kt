@@ -97,8 +97,7 @@ fun PokemonDetailScreen(
 
         PokemonDetailStateWrapper(
             modifier = Modifier
-                .fillMaxWidth()
-                .fillMaxHeight(0.85f)
+                .fillMaxSize()
                 .padding(
                     top = topPadding + pokemonImageSize / 2f,
                     start = 16.dp,
@@ -383,7 +382,7 @@ fun PokemonBaseStats(
                 statColor = parseStatToColor(stat),
                 animDelay = index * animDelayPerItem
             )
-            Spacer(modifier = Modifier.height(8.dp))
+            Spacer(modifier = Modifier.height(10.dp))
         }
     }
 
